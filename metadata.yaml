@@ -1,0 +1,28 @@
+_repo: Religious-Folk-Songs-of-the-Southern-Negroes_39078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Odum, Howard Washington
+    alias: Odum, Howard W.
+    birthdate: 1884
+    deathdate: 1954
+    gutenberg_agent_id: '39825'
+    url: http://www.gutenberg.org/2009/agents/39825
+description: ''
+gutenberg_issued: '2012-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Music'
+- !lcsh 'African Americans -- Southern States -- Music -- History and criticism'
+- !lcc 'ML'
+title: Religious Folk-Songs of the Southern Negroes
+url: http://www.gutenberg.org/ebooks/39078
